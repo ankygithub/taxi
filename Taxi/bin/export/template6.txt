@@ -1,0 +1,12 @@
+       83313000
+       鼓楼公司
+       22290300
+         AT#carNum#
+           0000
+     #date#
+   (K1070)#startTime#
+          #endTime#
+          3.00元
+         #km#km
+       00:#waitTime#
+         #money#元

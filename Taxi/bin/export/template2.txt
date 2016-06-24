@@ -1,0 +1,13 @@
+#2012-01-01
+
+    公交集团出租
+        87335015
+       闽A-T#carNum#
+            0000
+      #date#
+           #startTime#
+           #endTime#
+           3.00元
+          #km#km
+        00:#waitTime#
+          #money#元

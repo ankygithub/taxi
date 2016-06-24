@@ -1,0 +1,14 @@
+##年月日
+
+       83679445
+           台客
+       89633470
+       闽AT#carNum#
+           0000
+    #date#
+          #startTime#
+          #endTime#
+          3.00元
+         #km#km
+       00:#waitTime#
+         #money#元

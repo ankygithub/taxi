@@ -1,0 +1,12 @@
+       83313000
+       福汽公司
+       83313000
+         AT#carNum#
+         200000
+     #date#
+   (K0990)#startTime#
+          #endTime#
+          3.00元
+         #km#km
+       00:#waitTime#
+         #money#元

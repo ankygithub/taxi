@@ -1,0 +1,14 @@
+#非年月日
+
+       87247323
+           华威
+       87247323
+       闽AT#carNum#
+         #certNum#
+     #date#
+          #startTime#
+          #endTime#
+          3.00元
+         #km#km
+       00:#waitTime#
+         #money#元
